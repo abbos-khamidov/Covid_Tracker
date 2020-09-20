@@ -1,3 +1,5 @@
+React COVID Tracker
+This is my first react project on which through firebase and API I take all the data, and also make a working domain in the web application
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
